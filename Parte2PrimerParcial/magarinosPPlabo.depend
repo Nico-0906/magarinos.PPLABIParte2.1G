@@ -1,0 +1,667 @@
+# depslib dependency file v1.0
+1589594067 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1589580160 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\fecha.h
+
+1589585828 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\tipo.h
+
+1589586439 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\color.h
+
+1589591770 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\moto.h
+
+1589589021 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\servicio.h
+
+1589589587 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\trabajo.h
+
+1589582792 c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\herramientas.h
+
+1589582710 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589592137 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\color.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589593836 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1589592127 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1589591781 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1589594029 source:c:\users\agos\desktop\parcial\magarinospplab1\magarinospplabo\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067049 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/color.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590026376 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/fecha.h
+
+1590097168 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/tipo.h
+
+1590096156 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/color.h
+
+1590102259 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/moto.h
+
+1590096563 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/servicio.h
+
+1590097155 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/trabajo.h
+
+1590105202 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590093011 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590104683 /home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/herramientas.h
+
+1590105212 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/moto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590081789 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067067 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590100909 source:/home/nico/Desktop/PARCIAL/magarinosPPlab1/magarinosPPlabo/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067049 source:/home/nico/Desktop/prebaaaaaaaaaaa/color.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590026376 /home/nico/Desktop/prebaaaaaaaaaaa/fecha.h
+
+1590097168 /home/nico/Desktop/prebaaaaaaaaaaa/tipo.h
+
+1590096156 /home/nico/Desktop/prebaaaaaaaaaaa/color.h
+
+1590185921 /home/nico/Desktop/prebaaaaaaaaaaa/moto.h
+	"cliente.h"
+
+1590096563 /home/nico/Desktop/prebaaaaaaaaaaa/servicio.h
+
+1590186011 /home/nico/Desktop/prebaaaaaaaaaaa/trabajo.h
+
+1590190989 source:/home/nico/Desktop/prebaaaaaaaaaaa/herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590190947 /home/nico/Desktop/prebaaaaaaaaaaa/herramientas.h
+
+1590188037 source:/home/nico/Desktop/prebaaaaaaaaaaa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590191057 source:/home/nico/Desktop/prebaaaaaaaaaaa/moto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590081789 source:/home/nico/Desktop/prebaaaaaaaaaaa/servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067067 source:/home/nico/Desktop/prebaaaaaaaaaaa/tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590185983 source:/home/nico/Desktop/prebaaaaaaaaaaa/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590185656 /home/nico/Desktop/prebaaaaaaaaaaa/cliente.h
+
+1590185529 source:/home/nico/Desktop/prebaaaaaaaaaaa/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1590185529 source:/home/nico/Desktop/pruebaaaaa2222/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1590026376 /home/nico/Desktop/pruebaaaaa2222/fecha.h
+
+1590097168 /home/nico/Desktop/pruebaaaaa2222/tipo.h
+
+1590096156 /home/nico/Desktop/pruebaaaaa2222/color.h
+
+1590185921 /home/nico/Desktop/pruebaaaaa2222/moto.h
+	"cliente.h"
+
+1590185656 /home/nico/Desktop/pruebaaaaa2222/cliente.h
+
+1590096563 /home/nico/Desktop/pruebaaaaa2222/servicio.h
+
+1590186011 /home/nico/Desktop/pruebaaaaa2222/trabajo.h
+
+1590067049 source:/home/nico/Desktop/pruebaaaaa2222/color.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590193977 source:/home/nico/Desktop/pruebaaaaa2222/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+	"informes.h"
+
+1590192641 /home/nico/Desktop/pruebaaaaa2222/herramientas.h
+
+1590191057 source:/home/nico/Desktop/pruebaaaaa2222/moto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590081789 source:/home/nico/Desktop/pruebaaaaa2222/servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067067 source:/home/nico/Desktop/pruebaaaaa2222/tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590185983 source:/home/nico/Desktop/pruebaaaaa2222/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590192741 source:/home/nico/Desktop/pruebaaaaa2222/herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590193724 /home/nico/Desktop/pruebaaaaa2222/informes.h
+
+1590193580 source:/home/nico/Desktop/pruebaaaaa2222/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590185529 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1590026376 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/fecha.h
+
+1590097168 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/tipo.h
+
+1590096156 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/color.h
+
+1590185921 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/moto.h
+	"cliente.h"
+
+1590185656 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/cliente.h
+
+1590096563 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/servicio.h
+
+1590186011 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/trabajo.h
+
+1590067049 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/color.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590192741 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/herramientas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590192641 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/herramientas.h
+
+1590193977 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+	"informes.h"
+
+1590193724 /home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/informes.h
+
+1590191057 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/moto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
+1590081789 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590067067 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+
+1590185983 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+
+1590195085 source:/home/nico/Desktop/PARCIAL2DAPARTE/magarinos.PPLABIParte2.1G/Parte2PrimerParcial/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdio_ext.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"moto.h"
+	"servicio.h"
+	"trabajo.h"
+	"herramientas.h"
+	"cliente.h"
+
